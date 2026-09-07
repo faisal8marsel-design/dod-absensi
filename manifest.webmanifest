@@ -1,0 +1,25 @@
+{
+  "name": "DOD Absensi Sistem",
+  "short_name": "DOD Absensi",
+  "description": "Aplikasi absensi DOD",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/1TF3Z7hTtk2Sisgj28Ey0YkcCZWPwhUsR",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/1TF3Z7hTtk2Sisgj28Ey0YkcCZWPwhUsR",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
